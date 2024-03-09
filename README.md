@@ -23,10 +23,9 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-      ![image](https://github.com/sravanipopuri2006/EXNO2DS/assets/139778301/00ef5400-1fae-4183-af34-4d277a24a110)
-      ![image](https://github.com/sravanipopuri2006/EXNO2DS/assets/139778301/9d9789bf-55bf-44fd-94f1-e72746af15f5)
+      
 
-
+![box5_image](https://github.com/sravanipopuri2006/EXNO2DS/assets/139778301/92903657-b253-4bcc-87b1-546b9b7bcdac)
 
 # RESULT
 Thus the exploratory analysis is performed for the given data set
